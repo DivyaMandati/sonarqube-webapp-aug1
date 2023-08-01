@@ -1,1 +1,0 @@
-# sonarqube-webapp-aug1
